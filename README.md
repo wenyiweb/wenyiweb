@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm kevin 👋
 
-<!--
-**wenyiweb/wenyiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[^_^]:
+  (目前任职于)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![wenyiweb's github wenyi](https://github-readme-stats.vercel.app/api?username=wenyiweb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true")](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/wenyiweb/canvasKeyFrames">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wenyiweb&repo=canvasKeyFrames" />
+</a>
+
+<a href="https://github.com/wenyiweb/vuejs-fujun">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wenyiweb&repo=vuejs-fujun" />
+</a>
+
+<a href="https://github.com/wenyiweb/vue-next-fujun">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wenyiweb&repo=vue-next-fujun" />
+</a>
+
+<a href="https://github.com/wenyiweb/react-fujun">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wenyiweb&repo=react-fujun" />
+</a>
